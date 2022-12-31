@@ -38,7 +38,7 @@ like so:
 | RealDeuce | [MKS Makerbase Monster8 v1.0_003](./klipper/RealDeuce/MKS-Makerbase/Monster8_v1.0_003/) | Configuration and instructions for installing an MKS Makerbase Monster8 board | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | TechnoPhreak | [BTT SKR v2 for V2.4](./klipper/TechnoPhreak/BTT_SKR_v2) | Example configuration, wiring diagram and special instructions for the BTT SKR v2 controllers | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 | redelman | [Fysetc Spider 2.2 for Voron Trident](./klipper/redelman/Spider_2.2_Voron_Trident) | Example configuration and special instructions for the Fysetc Spider 2.2 for VT | :x: | :x: | :x: | :x: | :heavy_check_mark: |
-
+| Specter1Sniper | [BTT SKR3EZ SW CFG] | Working printer.cfg for SW based on BTT SKR3EZ contol board | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 ---
 
 ## RepRapFirmware
